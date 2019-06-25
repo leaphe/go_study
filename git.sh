@@ -11,7 +11,7 @@ echo "Date is $startTime"
 #安装go 
 #touch hello.go
 
-cd ~/Users/hexizan/documents/go_study
+cd /Users/hexizan/documents/go_study
 pwd
 git --version
 git config user.name 'leaphe'
