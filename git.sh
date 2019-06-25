@@ -8,6 +8,8 @@ startTime_s=`date +%s`
 
 echo "Date is $startTime"
 
+#安装go 
+#touch hello.go
 
 cd ~/Users/hexizan/documents/go_study
 pwd
